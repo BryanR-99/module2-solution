@@ -1,0 +1,13 @@
+ /***Desktop***/ 
+ 
+} @media only screen and (min-width: 992px) {
+  }
+
+/***tablet***/
+@media screen and (max-width: 991px) and (min-width: 768px){
+}
+
+/***mobile***/
+@media only screen and (max-width: 767px)
+    Stuff and things
+}
